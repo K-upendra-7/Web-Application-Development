@@ -1,4 +1,6 @@
- ## 5. Develop a java standalone application that connects with the database (Oracle / mySql) and perform the CRUD operation on the database tables. 
+# Exercise 5
+
+## 5. Develop a java standalone application that connects with the database (Oracle / mySql) and perform the CRUD operation on the database tables. 
 
 
 Steps to Connect with the Database:
